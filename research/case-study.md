@@ -140,9 +140,6 @@ Everything from the previous four stages feeds into the build. The Hormozi frame
 
 The webinar teaches *what* the best hiring systems look like. 100Hires sells *how* to implement them.
 
-**The full build is documented in:**
-- `/research/other/funnel-map.md` — complete funnel architecture from cold traffic to closed customer
-- `/research/other/my-n8n-workflow.md` — full n8n JSON workflow with Supabase integration, all email sequences, attendance tracking, and offer delivery
 
 ---
 
