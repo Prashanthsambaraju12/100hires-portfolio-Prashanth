@@ -43,7 +43,7 @@ This video confirms that the technology barrier to launching a webinar funnel is
 
 ---
 
-## Video 2 — ULTIMATE Guide To Building A Sales Funnel (For Free)
+## Video 2 — ULTIMATE Guide To Building A Sales Funnel 
 
 **Channel:** Jason Whaling
 **Link:** https://www.youtube.com/watch?v=lavvYMzjs08
