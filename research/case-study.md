@@ -158,7 +158,4 @@ The webinar teaches *what* the best hiring systems look like. 100Hires sells *ho
 ---
 
 *Built by Prashanth | April 2026*
-*Part of 100Hires Portfolio Project — Step 2*
-*Full source list: `/research/sources.md`*
-*Automation workflow: `/research/other/my-n8n-workflow.md`*
-*Funnel architecture: `/research/other/funnel-map.md`*
+*Part of 100Hires Portfolio Project 
